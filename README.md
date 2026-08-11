@@ -1,10 +1,10 @@
-<div align="center">
+ <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Mohammad Mahdi Deljavan Banner">
+<img src="https://github.com/Mohammadmahdideljavan/Mohammad-Mahdi-Deljavan/blob/main/ChatGPT%20Image%20Aug%2011%2C%202026%2C%2002_10_06%20PM.png" width="100%" alt="Mohammad Mahdi Deljavan Banner">
 
 <br><br>
 
-<h1>Hi 👋, I'm Mohammad Mahdi Deljavan</h1>
+<h1>Hi 👋, I'm Mohammad Mahdi</h1>
 
 <h3>💻 A passionate Frontend & Software Developer from Iran</h3>
 
@@ -18,21 +18,21 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Mohammad Mahdi Deljavan**, a passionate developer who loves creating modern, clean and user-friendly applications.
+Hi! I'm Mohammad Mahdi Deljavan, a passionate developer who loves creating modern, clean and user-friendly applications.
 
-- 🌱 I'm currently learning **React.js, JavaScript and CSS**
-- 💻 I'm focused on **Frontend Development**
+- 🌱 I'm currently learning React.js, JavaScript and CSS
+- 💻 I'm focused on Frontend Development
 - 🚀 I enjoy building modern and responsive interfaces
 - 🤝 I'm interested in collaborating on interesting projects
 - 🎯 I'm continuously improving my programming skills
 - 🎨 I also enjoy UI/UX and visual design
-- ☕ Fun fact: **I can debug code better after a cup of coffee!**
+- ☕️ Fun fact: I can debug code better after a cup of coffee!
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/mohamadmahdideljavan/" target="_blank">
 <img align="center"
@@ -64,7 +64,7 @@ width="40" />
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left">
+<p align="center">
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
@@ -126,7 +126,7 @@ alt="Django">
 
 <br>
 
-<p align="left">
+<p align="center">
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
@@ -135,12 +135,12 @@ alt="Django">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+ <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 </p>
 
 ---
+
 
 ## 🚀 What I'm Learning
 
