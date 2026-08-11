@@ -1,6 +1,10 @@
 <div align="center">
 
-<h1>Hi 👋, I'm Mohammad Mahdi</h1>
+<img src="./assets/banner.png" width="100%" alt="Mohammad Mahdi Deljavan Banner">
+
+<br><br>
+
+<h1>Hi 👋, I'm Mohammad Mahdi Deljavan</h1>
 
 <h3>💻 A passionate Frontend & Software Developer from Iran</h3>
 
